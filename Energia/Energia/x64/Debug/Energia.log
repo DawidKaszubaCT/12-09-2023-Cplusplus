@@ -1,0 +1,4 @@
+﻿  Energia.cpp
+C:\Users\borke\OneDrive\Dokumenty\C++\Energia\Energia\Energia.cpp(20,20): warning C4305: "/=": obcięcie z "double" do "float"
+C:\Users\borke\OneDrive\Dokumenty\C++\Energia\Energia\Energia.cpp(22,29): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  Energia.vcxproj -> C:\Users\borke\OneDrive\Dokumenty\C++\Energia\x64\Debug\Energia.exe
