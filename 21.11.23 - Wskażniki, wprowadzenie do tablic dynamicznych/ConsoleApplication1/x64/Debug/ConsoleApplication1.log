@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Programista\Documents\DK\Waliczek\21.11.23 - Wskażniki, wprowadzenie do tablic dynamicznych\ConsoleApplication1\ConsoleApplication1.cpp(10,23): warning C4311: "typ rzutowania": obcięcie wskaźnika z "float *" do "int"
+C:\Users\Programista\Documents\DK\Waliczek\21.11.23 - Wskażniki, wprowadzenie do tablic dynamicznych\ConsoleApplication1\ConsoleApplication1.cpp(10,23): warning C4302: "typ rzutowania": obcięcie z "float *" do "int"
+C:\Users\Programista\Documents\DK\Waliczek\21.11.23 - Wskażniki, wprowadzenie do tablic dynamicznych\ConsoleApplication1\ConsoleApplication1.cpp(13,27): warning C4311: "typ rzutowania": obcięcie wskaźnika z "float *" do "int"
+C:\Users\Programista\Documents\DK\Waliczek\21.11.23 - Wskażniki, wprowadzenie do tablic dynamicznych\ConsoleApplication1\ConsoleApplication1.cpp(13,27): warning C4302: "typ rzutowania": obcięcie z "float *" do "int"
+C:\Users\Programista\Documents\DK\Waliczek\21.11.23 - Wskażniki, wprowadzenie do tablic dynamicznych\ConsoleApplication1\ConsoleApplication1.cpp(14,24): warning C4311: "typ rzutowania": obcięcie wskaźnika z "float **" do "int"
+C:\Users\Programista\Documents\DK\Waliczek\21.11.23 - Wskażniki, wprowadzenie do tablic dynamicznych\ConsoleApplication1\ConsoleApplication1.cpp(14,24): warning C4302: "typ rzutowania": obcięcie z "float **" do "int"
+  ConsoleApplication1.vcxproj -> C:\Users\Programista\Documents\DK\Waliczek\21.11.23 - Wskażniki, wprowadzenie do tablic dynamicznych\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

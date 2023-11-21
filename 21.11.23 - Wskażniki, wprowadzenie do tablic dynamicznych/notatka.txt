@@ -1,0 +1,11 @@
+Wskażnik - zmienna przechowująca adres innej zmiennej
+
+int liczba = 144;
+int *w; - Definicja zmiennej wskażnikowej
+w = &liczba;   & - przypisanie wartości do wskażnika
+cout << w; -- > 16250
+cout << *w; -- > 144
+
+liczba           w
+ 144           16250
+adres:16250   adres: 41128
