@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Uczeń\Documents\Dawid Kaszuba\Waliczek\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Uczeń\Documents\Dawid Kaszuba\Waliczek\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(26,82): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Uczeń\Documents\Dawid Kaszuba\Waliczek\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(26,82): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+  ConsoleApplication2.vcxproj -> C:\Users\Uczeń\Documents\Dawid Kaszuba\Waliczek\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
