@@ -9,3 +9,24 @@ cout << *w; -- > 144
 liczba           w
  144           16250
 adres:16250   adres: 41128
+
+Zadanie Domowe
+Utwórz wskażnik na stringa i floata tak samo jak tu:
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int* wsk;
+    int liczba = 2;
+    cout << "Wskazniki" << endl;
+    wsk = &liczba;
+    cout << "WSK=" << (int)wsk << endl;
+    cout << "*WSK=" << *wsk << endl;
+    cout << "Liczba=" << liczba << endl;
+    cout << "&Liczba=" << (int)&liczba << endl;
+    cout << "&WSK=" << (int)&wsk << endl;
+
+}
+
+
