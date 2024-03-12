@@ -1,0 +1,7 @@
+T: Dziedziczenie w C++
+
+Redundacja - nadmiarowość
+
+utwórz aplikacje na konsole w C++
+Aplikacja dziedziczy w klasie Krokodyl
+Konstruktor, metody, właściwości z klasy Gady
